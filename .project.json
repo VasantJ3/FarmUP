@@ -1,0 +1,19 @@
+{
+    "dataBinding": {
+        "/webapp/view/FarmHome.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/InsideTomato.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/MarketPlace.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Overview.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/TomatoBuy.view.xml": {
+            "entitySet": ""
+        } 
+    }
+}
